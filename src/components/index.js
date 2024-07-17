@@ -9,3 +9,7 @@ export { default as FeaturedProducts } from "./FeaturedProducts";
 export { default as Filters } from "./Filters";
 export { default as ProductsContainer } from "./ProductsContainer";
 export { default as PaginationContainer } from "./PaginationContainer";
+export { default as FormSelect } from "./FormSelect";
+export { default as FormRange } from "./FormRange";
+export { default as FormCheckbox } from "./FormCheckbox";
+export { default as Loading } from "./Loading";
